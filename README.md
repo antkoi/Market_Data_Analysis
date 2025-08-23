@@ -1,7 +1,9 @@
 **Project Overview**
+
 This repository demonstrates how to perform financial market data analysis using Python and the pandas library. The market_data.ipynb notebook covers essential steps, from data acquisition to visualization, using historical stock data for NVIDIA (NVDA).
 
 **Key Steps in the Notebook**
+
 **Load Data:** Fetched historical stock prices for NVIDIA from Yahoo Finance using yfinance.
 
 **Data Exploration:** Inspected the loaded data to confirm its structure.
